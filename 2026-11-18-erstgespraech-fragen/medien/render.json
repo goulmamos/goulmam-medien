@@ -1,0 +1,54 @@
+{
+  "hash": "78d2a4236e68",
+  "gerendert": "2026-11-16T06:07:21.401Z",
+  "seiten": [
+    {
+      "datei": "medien/feed-01.png",
+      "format": "feed",
+      "folie": 1,
+      "ueberlauf": false
+    },
+    {
+      "datei": "medien/feed-02.png",
+      "format": "feed",
+      "folie": 2,
+      "ueberlauf": false
+    },
+    {
+      "datei": "medien/feed-03.png",
+      "format": "feed",
+      "folie": 3,
+      "ueberlauf": false
+    },
+    {
+      "datei": "medien/feed-04.png",
+      "format": "feed",
+      "folie": 4,
+      "ueberlauf": false
+    },
+    {
+      "datei": "medien/vertikal-01.png",
+      "format": "vertikal",
+      "folie": 1,
+      "ueberlauf": false
+    },
+    {
+      "datei": "medien/vertikal-02.png",
+      "format": "vertikal",
+      "folie": 2,
+      "ueberlauf": false
+    },
+    {
+      "datei": "medien/vertikal-03.png",
+      "format": "vertikal",
+      "folie": 3,
+      "ueberlauf": false
+    },
+    {
+      "datei": "medien/vertikal-04.png",
+      "format": "vertikal",
+      "folie": 4,
+      "ueberlauf": false
+    }
+  ]
+}
